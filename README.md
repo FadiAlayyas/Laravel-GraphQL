@@ -121,6 +121,7 @@ query {
     }
   }
 }
+```
 
 #### Create a New Article
 ```graphql
@@ -136,3 +137,4 @@ mutation {
     content
   }
 }
+```
